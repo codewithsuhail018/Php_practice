@@ -1,5 +1,5 @@
 <?php
-//$array=["ahmad","shahid","Adil","habbibi"];
+//$array=["ahmad","kapoor","Adil","habbibi"];
 
 //foreach($array as $name){
   //  echo "name: $name". "<br>" ;
@@ -9,17 +9,17 @@
 //}
 //add(20,55);
 $favcol=array(
-		"shahid"=>"green",
-		"aadil"=>"red",
-		"shaahil"=>"brown"
+		"kapoor"=>"green",
+		"ass"=>"red",
+		"dani"=>"brown"
 		);
 foreach($favcol as $key=>$value)
 {
 	echo "favourite color of $key :   $value   <br>";
 }
-$name="SHAHID";
+$name="kapoor";
 $rollno=242352;
-$char=`A`;
+$char='A';
 echo "$name --> $rollno"; 
 echo "$name --> $char"; 
  

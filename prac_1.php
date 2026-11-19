@@ -6,7 +6,7 @@
  $salary=465402.11 ;
  echo "$id <br> $salary";
   echo " <br>";
-  $name="sahil";
+  $name="shahi";
   $friend="aadil";
   
   echo "$name";
